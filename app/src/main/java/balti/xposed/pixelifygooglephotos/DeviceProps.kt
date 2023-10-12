@@ -360,7 +360,7 @@ object DeviceProps {
 
         DeviceEntries(
             "Pixel 8 Pro", hashMapOf(
-                Pair("BRAND", "google"),
+                Pair("BRAND", "Google"),
                 Pair("MANUFACTURER", "Google"),
                 Pair("DEVICE", "husky"),
                 Pair("PRODUCT", "husky"),
